@@ -1,12 +1,4 @@
 gw2treasures-assets
 ===================
 
-Assets of GW2Treasures
-
-
-Setup
------
-
-1. `npm install`
-2. Download the latest [Closure Compiler](http://dl.google.com/closure-compiler/compiler-latest.zip) and put the `compiler.jar` in `build/`
-3. `grunt build`
+Moved to https://github.com/GW2Treasures/gw2treasures.com/tree/main/assets
